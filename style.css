@@ -1,0 +1,20 @@
+body{
+    background-color: mediumseagreen;
+    text-align: center;
+}
+h1{
+    font-size: xx-large;
+    color: mintcream;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.container input{
+    background-color:rgb(134, 141, 148);
+    font-size: large;
+    width: 214px;
+    height: 27px;
+}
+.container button{
+    font-size: x-large;
+    width: 218px;
+    color: mediumspringgreen;
+}
